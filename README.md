@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙 :blue_heart
 
-<!--
-**pofamandarosim/pofamandarosim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Amanda Rosim
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :📬
+
+amanda_farmaunesp@yahoo.com.br
+
+@amandarosim
+
+
+![](https://media.tenor.com/AvHPuvcRU4wAAAAi/cute-penguin.gif)
+
