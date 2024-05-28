@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil💙 
 
-Meu nome é Amanda Rosim
+Meu nome é **Amanda Rosim**
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
